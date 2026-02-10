@@ -858,7 +858,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ### Support Channels
 
 - **GitHub Issues:** [Report bugs or request features](https://github.com/mehtasumti/Bedrcok-agentcore/issues)
-- **Community Forum:** [Skool K21 Academy](https://www.skool.com/k21academy)
 - **Discussions:** [GitHub Discussions](https://github.com/mehtasumti/Bedrcok-agentcore/discussions)
 
 ---
